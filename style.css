@@ -276,7 +276,7 @@ p {
 
 /* Hamburger Menu */
 .hamburger {
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 6px;
   cursor: pointer;
@@ -1152,4 +1152,5 @@ p {
 /* Icon color stays white on hover */
 .social-links a:hover i {
   color: #FFFFFF;
+
 }
